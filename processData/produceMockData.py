@@ -65,8 +65,8 @@ def generate_mock_change_data(systems_file, components_file, requirements_file, 
 
 
 # 使用示例
-systems_file = "unique_systems.txt"  # 替换为系统文件路径
-components_file = "unique_components.txt"  # 替换为组件文件路径
+systems_file = "unique_systems_mergeNodes.txt"  # 替换为系统文件路径
+components_file = "unique_components_mergeNodes.txt"  # 替换为组件文件路径
 requirements_file = "../data/需求数据.xls"  # 替换为需求文件路径
 stories_file = "../data/story数据.xls"  # 替换为故事文件路径
 tasks_file = "../data/task数据.xls"  # 替换为任务文件路径

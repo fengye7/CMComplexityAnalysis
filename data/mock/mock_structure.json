@@ -1,0 +1,457 @@
+{
+  "AI系统": [
+    {
+      "system": "AI数字人形象系统",
+      "services": [
+        {
+          "id": "service_1",
+          "name": "Service_1",
+          "interfaces": [
+            {
+              "id": "interface_1",
+              "name": "Interface_1"
+            },
+            {
+              "id": "interface_2",
+              "name": "Interface_2"
+            }
+          ]
+        },
+        {
+          "id": "service_2",
+          "name": "Service_2",
+          "interfaces": [
+            {
+              "id": "interface_3",
+              "name": "Interface_3"
+            },
+            {
+              "id": "interface_4",
+              "name": "Interface_4"
+            },
+            {
+              "id": "interface_5",
+              "name": "Interface_5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "AI数字分身形象系统",
+      "services": [
+        {
+          "id": "service_3",
+          "name": "Service_3",
+          "interfaces": [
+            {
+              "id": "interface_6",
+              "name": "Interface_6"
+            }
+          ]
+        },
+        {
+          "id": "service_4",
+          "name": "Service_4",
+          "interfaces": [
+            {
+              "id": "interface_7",
+              "name": "Interface_7"
+            },
+            {
+              "id": "interface_8",
+              "name": "Interface_8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "AI马良智能绘图系统",
+      "services": [
+        {
+          "id": "service_5",
+          "name": "Service_5",
+          "interfaces": [
+            {
+              "id": "interface_9",
+              "name": "Interface_9"
+            },
+            {
+              "id": "interface_10",
+              "name": "Interface_10"
+            },
+            {
+              "id": "interface_11",
+              "name": "Interface_11"
+            },
+            {
+              "id": "interface_12",
+              "name": "Interface_12"
+            },
+            {
+              "id": "interface_13",
+              "name": "Interface_13"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "CMDB系统": [
+    {
+      "system": "CMDB系统",
+      "services": [
+        {
+          "id": "service_6",
+          "name": "Service_6",
+          "interfaces": [
+            {
+              "id": "interface_14",
+              "name": "Interface_14"
+            },
+            {
+              "id": "interface_15",
+              "name": "Interface_15"
+            }
+          ]
+        },
+        {
+          "id": "service_7",
+          "name": "Service_7",
+          "interfaces": [
+            {
+              "id": "interface_16",
+              "name": "Interface_16"
+            },
+            {
+              "id": "interface_17",
+              "name": "Interface_17"
+            },
+            {
+              "id": "interface_18",
+              "name": "Interface_18"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "DMP系统": [
+    {
+      "system": "DMP营销管理系统",
+      "services": [
+        {
+          "id": "service_8",
+          "name": "Service_8",
+          "interfaces": [
+            {
+              "id": "interface_19",
+              "name": "Interface_19"
+            }
+          ]
+        },
+        {
+          "id": "service_9",
+          "name": "Service_9",
+          "interfaces": [
+            {
+              "id": "interface_20",
+              "name": "Interface_20"
+            },
+            {
+              "id": "interface_21",
+              "name": "Interface_21"
+            }
+          ]
+        },
+        {
+          "id": "service_10",
+          "name": "Service_10",
+          "interfaces": [
+            {
+              "id": "interface_22",
+              "name": "Interface_22"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据系统": [
+    {
+      "system": "DataStage数据交换系统",
+      "services": [
+        {
+          "id": "service_11",
+          "name": "Service_11",
+          "interfaces": [
+            {
+              "id": "interface_23",
+              "name": "Interface_23"
+            },
+            {
+              "id": "interface_24",
+              "name": "Interface_24"
+            }
+          ]
+        },
+        {
+          "id": "service_12",
+          "name": "Service_12",
+          "interfaces": [
+            {
+              "id": "interface_25",
+              "name": "Interface_25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "数据交换系统",
+      "services": [
+        {
+          "id": "service_13",
+          "name": "Service_13",
+          "interfaces": [
+            {
+              "id": "interface_26",
+              "name": "Interface_26"
+            },
+            {
+              "id": "interface_27",
+              "name": "Interface_27"
+            },
+            {
+              "id": "interface_28",
+              "name": "Interface_28"
+            }
+          ]
+        },
+        {
+          "id": "service_14",
+          "name": "Service_14",
+          "interfaces": [
+            {
+              "id": "interface_29",
+              "name": "Interface_29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "数据价格间通接系统",
+      "services": [
+        {
+          "id": "service_15",
+          "name": "Service_15",
+          "interfaces": [
+            {
+              "id": "interface_30",
+              "name": "Interface_30"
+            },
+            {
+              "id": "interface_31",
+              "name": "Interface_31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "数据价格分析系统",
+      "services": [
+        {
+          "id": "service_16",
+          "name": "Service_16",
+          "interfaces": [
+            {
+              "id": "interface_32",
+              "name": "Interface_32"
+            },
+            {
+              "id": "interface_33",
+              "name": "Interface_33"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "金融系统": [
+    {
+      "system": "ETF奖利平台",
+      "systemId": "system_ETF_1",
+      "services": [
+        {
+          "id": "service_17",
+          "name": "奖励计算服务",
+          "interfaces": [
+            {
+              "id": "interface_34",
+              "name": "奖励规则配置接口"
+            },
+            {
+              "id": "interface_35",
+              "name": "奖励计算接口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "金融交易平台",
+      "systemId": "system_TradePlatform_1",
+      "services": [
+        {
+          "id": "service_18",
+          "name": "订单管理服务",
+          "interfaces": [
+            {
+              "id": "interface_36",
+              "name": "订单创建接口"
+            },
+            {
+              "id": "interface_37",
+              "name": "订单查询接口"
+            }
+          ]
+        },
+        {
+          "id": "service_19",
+          "name": "结算服务",
+          "interfaces": [
+            {
+              "id": "interface_38",
+              "name": "结算处理接口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "金融交易应用系统",
+      "systemId": "system_TradeApp_1",
+      "services": [
+        {
+          "id": "service_20",
+          "name": "风险管理服务",
+          "interfaces": [
+            {
+              "id": "interface_39",
+              "name": "风险监控接口"
+            },
+            {
+              "id": "interface_40",
+              "name": "风险评估接口"
+            },
+            {
+              "id": "interface_41",
+              "name": "风险报告接口"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "股票系统": [
+    {
+      "system": "股票市场系统",
+      "systemId": "system_StockMarket_1",
+      "services": [
+        {
+          "id": "service_21",
+          "name": "市场数据服务",
+          "interfaces": [
+            {
+              "id": "interface_42",
+              "name": "实时行情接口"
+            },
+            {
+              "id": "interface_43",
+              "name": "历史行情接口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "股票市场动态系统",
+      "systemId": "system_StockMarketDynamic_1",
+      "services": [
+        {
+          "id": "service_22",
+          "name": "动态监测服务",
+          "interfaces": [
+            {
+              "id": "interface_44",
+              "name": "动态监测接口"
+            },
+            {
+              "id": "interface_45",
+              "name": "异常波动预警接口"
+            },
+            {
+              "id": "interface_46",
+              "name": "数据分析接口"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "计算机系统": [
+    {
+      "system": "IT人力资源池发布系统",
+      "systemId": "system_ITHRPool_1",
+      "services": [
+        {
+          "id": "service_23",
+          "name": "资源分配服务",
+          "interfaces": [
+            {
+              "id": "interface_47",
+              "name": "资源请求接口"
+            }
+          ]
+        },
+        {
+          "id": "service_24",
+          "name": "资源发布服务",
+          "interfaces": [
+            {
+              "id": "interface_48",
+              "name": "资源发布接口"
+            },
+            {
+              "id": "interface_49",
+              "name": "资源更新接口"
+            },
+            {
+              "id": "interface_50",
+              "name": "资源删除接口"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "system": "IT服务智能互动系统",
+      "systemId": "system_ITServiceInteractive_1",
+      "services": [
+        {
+          "id": "service_25",
+          "name": "交互服务",
+          "interfaces": [
+            {
+              "id": "interface_51",
+              "name": "用户反馈接口"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

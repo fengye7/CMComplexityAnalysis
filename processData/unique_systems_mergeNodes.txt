@@ -1,0 +1,44 @@
+NodeType: system
+ID: system_1	Name: 机构客户管理系统(matrix)
+ID: system_10	Name: 服务治理核心子系统
+ID: system_11	Name: 君弘APP网上交易移动端子系统
+ID: system_12	Name: 君弘个推子系统
+ID: system_13	Name: 融券生态系统
+ID: system_14	Name: 交易管理网关子系统
+ID: system_15	Name: 用户中心
+ID: system_17	Name: 君弘APP行情衍生服务子系统
+ID: system_18	Name: 消息中心
+ID: system_19	Name: 财富管理投资规划PAD版系统
+ID: system_2	Name: 博睿APM监控系统
+ID: system_20	Name: 股票异动雷达系统
+ID: system_21	Name: 智能投顾服务系统
+ID: system_22	Name: 对客大数据通用查询服务系统
+ID: system_25	Name: 富易网上交易子系统
+ID: system_3	Name: 全连接众众系统
+ID: system_4	Name: 君弘理财系统
+ID: system_5	Name: 公司网站系统
+ID: system_6	Name: 君弘APP资讯服务子系统
+ID: system_7	Name: 互联网IP智能调度系统
+ID: system_8	Name: 智能服务系统
+
+NodeType: mq
+ID: mq_228_merge_228	Name: Kafka
+ID: mq_233_merge_233	Name: EMQ
+
+NodeType: rpc
+ID: rpc_201_merge_201	Name: Http
+ID: rpc_202_merge_202	Name: Thrift
+ID: rpc_208_merge_208	Name: Dubbo
+ID: rpc_217_merge_217	Name: Grpc
+
+NodeType: sql
+ID: sql_11_merge_11	Name: JDBC
+ID: sql_1_merge_1	Name: MYSQL
+ID: sql_2_merge_2	Name: Oracle
+ID: sql_3_merge_3	Name: MSSQLServer
+
+NodeType: nosql
+ID: nosql_101_merge_101	Name: Mongodb
+ID: nosql_103_merge_103	Name: Redis
+ID: nosql_110_merge_110	Name: ElasticSearch
+

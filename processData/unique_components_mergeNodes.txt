@@ -1,0 +1,21 @@
+NodeType: mq
+ID: mq_228_merge_228	Name: Kafka
+ID: mq_233_merge_233	Name: EMQ
+
+NodeType: rpc
+ID: rpc_201_merge_201	Name: Http
+ID: rpc_202_merge_202	Name: Thrift
+ID: rpc_208_merge_208	Name: Dubbo
+ID: rpc_217_merge_217	Name: Grpc
+
+NodeType: sql
+ID: sql_11_merge_11	Name: JDBC
+ID: sql_1_merge_1	Name: MYSQL
+ID: sql_2_merge_2	Name: Oracle
+ID: sql_3_merge_3	Name: MSSQLServer
+
+NodeType: nosql
+ID: nosql_101_merge_101	Name: Mongodb
+ID: nosql_103_merge_103	Name: Redis
+ID: nosql_110_merge_110	Name: ElasticSearch
+
