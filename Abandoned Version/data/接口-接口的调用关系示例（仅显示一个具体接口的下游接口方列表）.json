@@ -1,0 +1,39 @@
+{
+    "msg": "success",
+    "data":
+    {
+        "total": 1,
+        "rows":
+        [
+            {
+                "serviceType": "1",
+                "btNameHash": "2a44b96a7af93acefa2dabfa097c3ace",
+                "minRespTime": 1.778,
+                "apdex": 1.0,
+                "slowCount": 0,
+                "maxRespTime": 3.5100000000000002,
+                "serviceAlias": "GGZJMicroService.jar",
+                "requestNormalCount": 7,
+                "alias": "com.gtja.ggzj.thrift.SGGZJUserService.fSendRequestSync",
+                "throughput": 0.7,
+                "serviceId": "336",
+                "errorCount": 0,
+                "quantiles99": 3.4589999999999996,
+                "avgRespTime": 2.493,
+                "requestCount": 7,
+                "quantiles95": 3.2549999999999994,
+                "slowRate": 0.0,
+                "responseTime": 17.451,
+                "quantiles75": 2.6535,
+                "callRate": 100.0,
+                "errorRate": 0.0,
+                "serviceName": "GGZJMicroService.jar",
+                "verySlowCount": 0,
+                "quantiles50": 2.464,
+                "verySlowRate": 0.0,
+                "btName": "com.gtja.ggzj.thrift.SGGZJUserService.fSendRequestSync"
+            }
+        ]
+    },
+    "code": "200"
+}

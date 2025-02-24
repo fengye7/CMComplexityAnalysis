@@ -1,0 +1,500 @@
+{
+    "msg": "success",
+    "data":
+    {
+        "total": 14,
+        "rows":
+        [
+            {
+                "serviceType": 1,
+                "minRespTime": 0.147,
+                "apdex": 0.8912809821748823,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 103.0,
+                "maxRespTime": 36576.056000000004,
+                "requestNormalCount": 728019.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 87710.0,
+                "abandonTraceCount": 729171.0,
+                "alias": "GGZJMicroService.jar",
+                "throughput": 81688.1,
+                "serviceId": 1128,
+                "errorCount": 88752.0,
+                "avgRespTime": 520.2939102843621,
+                "quantiles99": 5027.655659170793,
+                "requestCount": 816881.0,
+                "quantiles95": 5027.655659170793,
+                "slowRate": 0.012608935695652121,
+                "responseTime": 425018209.727,
+                "quantiles75": 8.186570516971658,
+                "active": 1,
+                "errorRate": 10.864740396704049,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "GGZJMicroService.jar",
+                "sourceType": 1,
+                "verySlowCount": 87527.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 4.676155986834149,
+                "firstMonitorTime": "2024-12-12 23:29:59",
+                "verySlowRate": 10.714779753721778
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 0.167,
+                "apdex": 0.9990310548782084,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 6046.558,
+                "requestNormalCount": 801126.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 55080.0,
+                "abandonTraceCount": 746823.0,
+                "alias": "ucas.jar",
+                "throughput": 80190.3,
+                "serviceId": 1039,
+                "errorCount": 777.0,
+                "avgRespTime": 5.442671189657601,
+                "quantiles99": 43.92796236496294,
+                "requestCount": 801903.0,
+                "quantiles95": 23.630314614914,
+                "slowRate": 0.0,
+                "responseTime": 4364494.355,
+                "quantiles75": 8.351955779940784,
+                "active": 1,
+                "errorRate": 0.09689451217915383,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "ucas.jar",
+                "sourceType": 1,
+                "verySlowCount": 468.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 4.492795297221993,
+                "firstMonitorTime": "2024-12-12 23:30:01",
+                "verySlowRate": 0.05836117335887259
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 1.208,
+                "apdex": 0.9997393748950089,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 13.0,
+                "maxRespTime": 1227.826,
+                "requestNormalCount": 404684.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 7056.0,
+                "abandonTraceCount": 397740.0,
+                "alias": "GGZJBigdata.jar",
+                "throughput": 40479.6,
+                "serviceId": 1171,
+                "errorCount": 99.0,
+                "avgRespTime": 14.453026307078133,
+                "quantiles99": 75.38204180603205,
+                "requestCount": 404796.0,
+                "quantiles95": 51.55021632605415,
+                "slowRate": 0.0032114941847251454,
+                "responseTime": 5850527.237,
+                "quantiles75": 16.81916603070623,
+                "active": 1,
+                "errorRate": 0.02445676340675303,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "GGZJBigdata.jar",
+                "sourceType": 1,
+                "verySlowCount": 0.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 6.976098010783512,
+                "firstMonitorTime": "2024-12-12 23:30:24",
+                "verySlowRate": 0.0
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 1.8980000000000001,
+                "apdex": 0.005521965150264385,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 5144.6050000000005,
+                "requestNormalCount": 495.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 7034.0,
+                "abandonTraceCount": 82608.0,
+                "alias": "GGZJUFXProxy.jar",
+                "throughput": 8964.2,
+                "serviceId": 1124,
+                "errorCount": 0.0,
+                "avgRespTime": 4974.002669273332,
+                "quantiles99": 5027.655659170793,
+                "requestCount": 89642.0,
+                "quantiles95": 5027.655659170793,
+                "slowRate": 0.0,
+                "responseTime": 445879547.279,
+                "quantiles75": 5027.655659170793,
+                "active": 1,
+                "errorRate": 0.0,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "GGZJUFXProxy.jar",
+                "sourceType": 1,
+                "verySlowCount": 89147.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 5027.655659170793,
+                "firstMonitorTime": "2024-12-12 23:29:58",
+                "verySlowRate": 99.44780348497356
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 0.243,
+                "apdex": 0.8982090643274854,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 14783.128,
+                "requestNormalCount": 24575.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 7949.0,
+                "abandonTraceCount": 19411.0,
+                "alias": "tomcat-web-84",
+                "throughput": 2736.0,
+                "serviceId": 1021,
+                "errorCount": 112.0,
+                "avgRespTime": 641.8296699926901,
+                "quantiles99": 12366.408510073223,
+                "requestCount": 27360.0,
+                "quantiles95": 5027.655659170793,
+                "slowRate": 0.0,
+                "responseTime": 17560459.771,
+                "quantiles75": 20.13631842998767,
+                "active": 1,
+                "errorRate": 0.40935672514619886,
+                "technology":
+                [
+                    1,
+                    10,
+                    12,
+                    159
+                ],
+                "serviceName": "tomcat-web-84",
+                "sourceType": 1,
+                "verySlowCount": 2785.0,
+                "otherTechnology":
+                [
+                    1,
+                    10,
+                    12
+                ],
+                "quantiles50": 5.9446068845517,
+                "firstMonitorTime": "2024-12-12 23:22:03",
+                "verySlowRate": 10.179093567251464
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 0.0,
+                "apdex": 0.9017091417796971,
+                "sourceTypeArray":
+                [
+                    2
+                ],
+                "mainTechnology":
+                [
+                    180
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 5036.0,
+                "requestNormalCount": 14825.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 16441.0,
+                "abandonTraceCount": 0.0,
+                "alias": "Deploy微服务",
+                "throughput": 1644.1,
+                "serviceId": 1001,
+                "errorCount": 0.0,
+                "avgRespTime": 487.2276625509397,
+                "quantiles99": 5027.655659170793,
+                "requestCount": 16441.0,
+                "quantiles95": 5027.655659170793,
+                "slowRate": 0.0,
+                "responseTime": 8010510.0,
+                "quantiles75": 5.9446068845517,
+                "active": 1,
+                "errorRate": 0.0,
+                "technology":
+                [
+                    180
+                ],
+                "serviceName": "Deploy微服务",
+                "sourceType": 1,
+                "verySlowCount": 1616.0,
+                "otherTechnology":
+                [],
+                "quantiles50": 3.9847360271605248,
+                "firstMonitorTime": "2024-12-09 16:36:06",
+                "verySlowRate": 9.82908582203029
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 2.695,
+                "apdex": 0.5215107198636945,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 5022.412,
+                "requestNormalCount": 7346.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 4506.0,
+                "abandonTraceCount": 9580.0,
+                "alias": "tomcat-ufx-84",
+                "throughput": 1408.6,
+                "serviceId": 1020,
+                "errorCount": 0.0,
+                "avgRespTime": 2399.829182308675,
+                "quantiles99": 5027.655659170793,
+                "requestCount": 14086.0,
+                "quantiles95": 5027.655659170793,
+                "slowRate": 0.0,
+                "responseTime": 33803993.862,
+                "quantiles75": 5027.655659170793,
+                "active": 1,
+                "errorRate": 0.0,
+                "technology":
+                [
+                    1,
+                    10,
+                    12,
+                    159
+                ],
+                "serviceName": "tomcat-ufx-84",
+                "sourceType": 1,
+                "verySlowCount": 6740.0,
+                "otherTechnology":
+                [
+                    1,
+                    10,
+                    12
+                ],
+                "quantiles50": 21.381521587402183,
+                "firstMonitorTime": "2024-12-12 23:22:01",
+                "verySlowRate": 47.848928013630555
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 0.806,
+                "apdex": 0.99650789216371,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 2.0,
+                "maxRespTime": 1494.654,
+                "requestNormalCount": 7133.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 1379.0,
+                "abandonTraceCount": 5780.0,
+                "alias": "ucas-emp.jar",
+                "throughput": 715.9,
+                "serviceId": 1066,
+                "errorCount": 24.0,
+                "avgRespTime": 51.50636066489733,
+                "quantiles99": 129.35842959514812,
+                "requestCount": 7159.0,
+                "quantiles95": 84.99335479506506,
+                "slowRate": 0.027936862690319877,
+                "responseTime": 368734.036,
+                "quantiles75": 54.73801315980948,
+                "active": 1,
+                "errorRate": 0.33524235228383853,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "ucas-emp.jar",
+                "sourceType": 1,
+                "verySlowCount": 0.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 48.548068332413585,
+                "firstMonitorTime": "2024-12-12 23:30:09",
+                "verySlowRate": 0.0
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 2.707,
+                "apdex": 0.9986737400530504,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 34.726,
+                "requestNormalCount": 1506.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 874.0,
+                "abandonTraceCount": 634.0,
+                "alias": "GGZJUserExt.jar",
+                "throughput": 150.8,
+                "serviceId": 1606,
+                "errorCount": 2.0,
+                "avgRespTime": 7.800488063660477,
+                "quantiles99": 15.839662370926755,
+                "requestCount": 1508.0,
+                "quantiles95": 13.230318750333257,
+                "slowRate": 0.0,
+                "responseTime": 11763.136,
+                "quantiles75": 8.520682159333516,
+                "active": 1,
+                "errorRate": 0.1326259946949602,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "GGZJUserExt.jar",
+                "sourceType": 1,
+                "verySlowCount": 0.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 7.407490635987731,
+                "firstMonitorTime": "2024-12-12 23:32:44",
+                "verySlowRate": 0.0
+            },
+            {
+                "serviceType": 1,
+                "minRespTime": 3.5100000000000002,
+                "apdex": 1.0,
+                "sourceTypeArray":
+                [
+                    1
+                ],
+                "mainTechnology":
+                [
+                    159
+                ],
+                "slowCount": 0.0,
+                "maxRespTime": 302.274,
+                "requestNormalCount": 1272.0,
+                "lastMonitorTime": "2025-02-21 18:50:01",
+                "collectTraceCount": 210.0,
+                "abandonTraceCount": 1062.0,
+                "alias": "GGZJUserManagement.jar",
+                "throughput": 127.2,
+                "serviceId": 1334,
+                "errorCount": 0.0,
+                "avgRespTime": 57.64204716981132,
+                "quantiles99": 250.28720455930318,
+                "requestCount": 1272.0,
+                "quantiles95": 192.98267335768335,
+                "slowRate": 0.0,
+                "responseTime": 73320.68400000001,
+                "quantiles75": 134.637826782992,
+                "active": 1,
+                "errorRate": 0.0,
+                "technology":
+                [
+                    1,
+                    10,
+                    159
+                ],
+                "serviceName": "GGZJUserManagement.jar",
+                "sourceType": 1,
+                "verySlowCount": 0.0,
+                "otherTechnology":
+                [
+                    1,
+                    10
+                ],
+                "quantiles50": 13.230318750333257,
+                "firstMonitorTime": "2024-12-12 23:31:01",
+                "verySlowRate": 0.0
+            }
+        ]
+    },
+    "code": "200"
+}
